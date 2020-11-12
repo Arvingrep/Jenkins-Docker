@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "registryName": "ccr.ccs.tencentyun.com/yohann/demo",
+  "registryName": "ccr.ccs.tencentyun.com/arvingrep/dome",
   "env": {
     "test": {
-      "credentialsId": "ssh-test",
-      "host": "123.206.25.28"
+      "credentialsId": "shh_linux",
+      "host": "192.168.5.140"
     },
     "pro": {
-      "credentialsId": "ssh-test",
-      "host": "123.206.25.28"
+      "credentialsId": "shh_linux",
+      "host": "192.168.5.249"
     }
   }
 }
