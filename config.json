@@ -3,11 +3,11 @@
   "registryName": "ccr.ccs.tencentyun.com/arvingrep/dome",
   "env": {
     "test": {
-      "credentialsId": "shh_linux",
+      "credentialsId": "passwd",
       "host": "192.168.5.140"
     },
     "pro": {
-      "credentialsId": "shh_linux",
+      "credentialsId": "passwd",
       "host": "192.168.5.249"
     }
   }
